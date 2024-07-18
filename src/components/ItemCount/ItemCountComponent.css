@@ -1,0 +1,16 @@
+.count{
+    display: grid;
+    grid-template-columns: repeat(3, 2vw);
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    justify-items: center;
+}
+
+.count button{
+    border-radius: 5px;
+    font-family: "Andreas";
+    font-weight: 700;
+    padding: 10px;
+    margin-bottom: 20px;
+}

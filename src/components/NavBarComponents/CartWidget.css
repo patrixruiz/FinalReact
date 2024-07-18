@@ -1,0 +1,20 @@
+
+.cartWidget button{
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+    border-radius: 10px;
+    border: var(--bs-btn-border-width) solid #f8f9fa;
+    padding: 8px;
+}
+.cartWidget button h5{
+    text-decoration-line:none;
+    margin-top: 8px;
+    margin-bottom: 0;
+    
+}
+
+.logoCarrito{
+    width: 40px;
+}
+

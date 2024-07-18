@@ -1,0 +1,6 @@
+.navbarCentro .botonNavbar{
+    background-color: #3085d6;
+    border: var(--bs-btn-border-width) solid #f8f9fa;
+    border-radius: 25px;
+    padding: 10px 25px 10px 25px;
+}

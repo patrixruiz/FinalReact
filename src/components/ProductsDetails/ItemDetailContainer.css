@@ -1,0 +1,41 @@
+.DetailCharging{
+    text-align: center;
+    font-size: 1vw;
+}
+
+.Detail{
+    
+    text-align: center;
+    align-items: center;
+}
+.Detail h2{
+    margin-top: 15px;
+    margin-bottom: 0;
+}
+
+.DetailContainer img{
+    width: 300px;
+
+}
+.carrito{
+    display: grid;
+    grid-template-columns: 1;
+    text-align: center;
+    align-items: end;
+    justify-content: center;
+    justify-items: center;
+    gap: 1rem;
+    margin: 0.5rem;
+}
+
+.carrito button{
+    color: #f8f9fa;
+    background-color: #3085d6;
+    border: var(--bs-btn-border-width) solid #f8f9fa;
+    border-radius: 25px;
+    padding: 10px 25px;
+}
+
+.carrito button:hover {
+    background-color: #1e6bbd; 
+}
